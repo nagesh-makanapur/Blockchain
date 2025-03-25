@@ -1,0 +1,23 @@
+Index: 0
+Timestamp: 1742904517.8143253
+Transactions: Genesis Block
+Previous Hash: 0
+Hash: 0a3b65b77bb425aeabd6101bf9ec8e571cbd96f1be00080a2da743e0397b1cf6
+Nonce: 0
+----------------------------------------
+Index: 1
+Timestamp: 1742904517.8143253
+Transactions: ['Alice pays Bob 10 BTC', 'Bob pays Charlie 5 BTC']
+Previous Hash: 0a3b65b77bb425aeabd6101bf9ec8e571cbd96f1be00080a2da743e0397b1cf6
+Hash: 009786f319a8d706ae7489377b6b256f86e870ddd9f6a20a91af391324b5034e
+Nonce: 17
+----------------------------------------
+Index: 2
+Timestamp: 1742904517.8156784
+Transactions: ['Charlie pays Dave 2 BTC', 'Dave pays Alice 1 BTC']
+Previous Hash: 009786f319a8d706ae7489377b6b256f86e870ddd9f6a20a91af391324b5034e
+Hash: 00d215d5dfd458b49ce1e91f2d1120df181cbdbc7e2d2d30539318eeb15a766f
+Nonce: 115
+----------------------------------------
+Blockchain Validity before tampering: True
+Blockchain Validity after tampering: False
